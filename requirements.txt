@@ -4,4 +4,4 @@ flask-wtf
 werkzeug
 cassandra-driver
 numpy
-tensorflow==1.14
+tensorflow==2.6.4
